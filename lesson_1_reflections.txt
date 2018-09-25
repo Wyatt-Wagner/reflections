@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   It helped narrow down the location of the bug.
+I was able to find the specific line that needed fixing.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+If mistakes are made, then one doesn’t have to start over or look for the mistake for an extensively long time.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   Pros: You can make logical decisions about when to make a commit, so that every commit is an important one. You’ll have the right amount of commits.
+Cons: You may forget to create a commit and might lose all of your changes since the last commit.
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   Because those files might be related to each other, so when changes are made to one, changes are made to all. It is important to save all of the files at the same time if they are related, so using Git to save multiple files in one commit would be ideal. It would be good to use Google docs when committing on files that are separate and do not affect each other like two different essays for two different classes.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can see all of the commits that were made in the file’s history, and using git diff will allow you to see the changes made between two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Because you know there is a sort of safety net that will let you access previous versions of your file if you mess up. This is so you don’t have to start over.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I don’t have plenty of ideas, but I know that I want to look a little bit into game designing.
