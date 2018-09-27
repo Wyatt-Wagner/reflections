@@ -19,8 +19,8 @@ So you can know the difference between your master branch and the one on github 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+I don't think that you can collaborate witnout Git or Github because it is the only place where each individual can push their commits into a common repository.
 
-    Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
