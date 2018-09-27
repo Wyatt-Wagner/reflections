@@ -8,8 +8,10 @@ Because you can decide when the right time to pull changes is in case you made a
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Forks allow you to clone one repository on github to your page on github. 
+Cloning is just copying the repository from github to your local computer. 
+Branching is just creating a different branch from the master branch.
+  
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
